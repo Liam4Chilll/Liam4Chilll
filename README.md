@@ -24,7 +24,7 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 ---
 
-## 🚀 Quelques un de mes projets..
+## Quelques un de mes projets..
 
 <div align="center">
 
@@ -40,7 +40,7 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 ---
 
-## Quelques statistiques
+## Mes statistiques du moment
 
 <div align="center">
 
