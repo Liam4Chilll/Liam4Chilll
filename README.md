@@ -1,5 +1,15 @@
 # Bienvenue sur mon Github ! 👋
 
+** Systèmes, réseaux, infrastructure et IA **
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ---
 
 ## À propos de moi
@@ -14,17 +24,19 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 ---
 
-## Stack & outils
+## 🚀 Quelques un de mes projets..
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<div align="center">
 
-Et bien d'autres à découvrir !
+[![MCP Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=MODEL-CONTEXT-PROTOCOL&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/MODEL-CONTEXT-PROTOCOL)
+[![N8N Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=N8N&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/N8N)
+
+
+[![K8S Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=K8S&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/K8S)
+[![Docker Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=DOCKER&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/DOCKER)
+
+[![SysAdmin Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=SysAdmin&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/SysAdmin)
+</div>
 
 ---
 
@@ -32,8 +44,7 @@ Et bien d'autres à découvrir !
 
 <div align="center">
 
-<!-- Stats principales avec thème futuriste -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liam4Chilll&show_icons=true&theme=synthwave&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)
+
 
 <!-- Langages avec style compact futuriste -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam4Chilll&layout=compact&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10)
@@ -44,8 +55,6 @@ Et bien d'autres à découvrir !
 <!-- Graphique d'activité avec style matrix -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Liam4Chilll&theme=react-dark&bg_color=0d1117&color=58a6ff&line=f85d7f&point=c9d1d9&area=true&hide_border=true)
 
-<!-- Trophées avec animation -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Liam4Chilll&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
@@ -53,14 +62,10 @@ Et bien d'autres à découvrir !
 
 ## Mes domaines d'expertise
 
-🏗️ **DevOps & Infrastructure** - Windows, Linux, Cloud, Conteneurisation, Orchestration
-
-🔬 **R&D Intelligence Artificielle** - LLM, MCP, N8N 
-
-🛡️ **Cybersécurité** - OSINT, Forensic, Pentest    
-
+🏗️ **DevOps & Infrastructure** - Windows, Linux, Cloud, Conteneurisation, Orchestration  
+🔬 **R&D Intelligence Artificielle** - LLM, MCP, N8N  
+🛡️ **Cybersécurité** - OSINT, Forensic, Pentest  
 📺 **Création de Contenu** - Vulgarisation technique sur YouTube  
-
 💰 **Finance Décentralisée** - DeFi, Base (L2), Bitcoin  
 
 ---
@@ -78,6 +83,6 @@ Et bien d'autres à découvrir !
 
 *"L'innovation naît de la curiosité, se nourrit de l'expérimentation et s'épanouit dans le partage."*
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=votre-username.votre-username)](https://github.com/votre-username)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Liam4Chilll.Liam4Chilll)](https://github.com/Liam4Chilll)
 
 </div>
