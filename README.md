@@ -22,25 +22,33 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 **J'explore, je construis, je partage.**
 
----
+  
 
-## Quelques un de mes projets..
+## Quelques projets
 
 <div align="center">
 
 [![MCP Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=MODEL-CONTEXT-PROTOCOL&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/MODEL-CONTEXT-PROTOCOL)
 [![N8N Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=N8N&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/N8N)
 
-
-[![K8S Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=K8S&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/K8S)
 [![Docker Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=DOCKER&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/DOCKER)
-
 [![SysAdmin Repository](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=SysAdmin&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/SysAdmin)
 </div>
 
----
+  
 
-## Mes statistiques du moment
+## Mes domaines d'expertise
+  
+🏗️ **DevOps & Infrastructure** - Windows, Linux, Cloud, Conteneurisation, Orchestration  
+🔬 **R&D Intelligence Artificielle** - LLM, MCP, N8N  
+🛡️ **Cybersécurité** - OSINT, Forensic, Pentest  
+📺 **Création de Contenu** - Vulgarisation technique sur YouTube  
+💰 **Finance Décentralisée** - DeFi, Base (L2), Bitcoin  
+
+  
+---
+  
+  
 
 <div align="center">
 
@@ -57,16 +65,6 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 
 </div>
-
----
-
-## Mes domaines d'expertise
-
-🏗️ **DevOps & Infrastructure** - Windows, Linux, Cloud, Conteneurisation, Orchestration  
-🔬 **R&D Intelligence Artificielle** - LLM, MCP, N8N  
-🛡️ **Cybersécurité** - OSINT, Forensic, Pentest  
-📺 **Création de Contenu** - Vulgarisation technique sur YouTube  
-💰 **Finance Décentralisée** - DeFi, Base (L2), Bitcoin  
 
 ---
 
