@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github ! 👋
 
-** Systèmes, réseaux, infrastructure et IA **
+**Systèmes, réseaux, infrastructure et IA**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -40,7 +40,7 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 ---
 
-## Statistiques GitHub
+## Quelques statistiques
 
 <div align="center">
 
