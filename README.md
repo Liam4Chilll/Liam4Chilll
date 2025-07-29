@@ -34,9 +34,20 @@ Et bien d'autres à découvrir !
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liam4Chilll&show_icons=true&theme=dark&count_private=true)
+<!-- Stats principales avec thème futuriste -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liam4Chilll&show_icons=true&theme=synthwave&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam4Chilll&layout=compact&theme=dark)
+<!-- Langages avec style compact futuriste -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam4Chilll&layout=compact&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10)
+
+<!-- Streak stats avec effet néon -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Liam4Chilll&theme=neon-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- Graphique d'activité avec style matrix -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Liam4Chilll&theme=react-dark&bg_color=0d1117&color=58a6ff&line=f85d7f&point=c9d1d9&area=true&hide_border=true)
+
+<!-- Trophées avec animation -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Liam4Chilll&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
