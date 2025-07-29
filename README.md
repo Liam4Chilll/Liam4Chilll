@@ -14,11 +14,11 @@
 
 ## À propos de moi
 
-Professionnel de l'IT avec plus de 6 ans d'expérience dans les environnements critiques (aéronautique, défense, cybersécurité), j'évolue à l'intersection des systèmes, de l'innovation et de la pédagogie.
+Professionnel de l'IT avec plus de 6 ans d'expérience dans les environnements critiques, j'évolue à l'intersection des infrastructures mixtes, de l'innovation et de la pédagogie.
 
-Je me spécialise progressivement sur les sujets R&D liés à l'intelligence artificielle, aux LLM et à la construction d'infrastructures MCP en entreprise.
+Administrateur systèmes et réseaux de formation puis certifié en Pentest et en Forensic, j'explore également les sujets R&D liés à l'IA génératives, aux LLM et à la construction d'infrastructures MCP en entreprise.
 
-En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée et l'automatisation intelligente.
+En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée et l'automatisation.
 
 **J'explore, je construis, je partage.**
 
