@@ -1,6 +1,4 @@
-# Bienvenue sur mon Github, moi c'est Liam4Chill ! 👋
-
-**DevSecOps • R&D AI/LLM • Créateur de Contenu**
+# Bienvenue sur mon Github ! 👋
 
 ---
 
