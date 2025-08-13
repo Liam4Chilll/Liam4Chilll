@@ -14,13 +14,13 @@
 
 ## À propos de moi
 
-Professionnel de l'IT avec plus de 6 ans d'expérience dans les environnements critiques, j'évolue à l'intersection des infrastructures mixtes, de l'innovation et de la pédagogie.
+Professionnel de l’IT avec plus de 6 ans d’expérience dans les environnements critiques (défense et spatial), j’évolue à l’intersection des systèmes, de l’innovation et de la pédagogie.
 
-Administrateur systèmes et réseaux de formation puis certifié en Pentest et en Forensic, j'explore également les sujets R&D liés à l'IA génératives, aux LLM et à la construction d'infrastructures MCP en entreprise.
+Je me spécialise progressivement sur le CI/CD (K8S, Terraform, Ansible) et la GenAI (MCP, N8N, RAG)
 
-En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée et l'automatisation.
+En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée (DeFi).
 
-**J'explore, je construis, je partage.**
+J’explore, je construis, je partage.**
 
   
 
