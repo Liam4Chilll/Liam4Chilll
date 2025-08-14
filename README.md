@@ -20,7 +20,7 @@ Je me spécialise progressivement sur le CI/CD (K8S, Terraform, Ansible) et la G
 
 En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée (DeFi).
 
-J’explore, je construis, je partage.**
+**J’explore, je construis, je partage.**
 
   
 
