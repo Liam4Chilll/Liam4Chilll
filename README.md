@@ -14,7 +14,7 @@
 
 ## À propos de moi
 
-Professionnel de l’IT avec plus de 6 ans d’expérience dans les environnements critiques (défense et spatial), j’évolue à l’intersection des systèmes, de l’innovation et de la pédagogie.
+Professionnel de l’IT avec plus de 7 ans d’expérience dans les environnements critiques (défense et spatial), j’évolue à l’intersection des systèmes, de l’innovation et de la pédagogie.
 
 Je me spécialise progressivement sur le CI/CD (K8S, Terraform, Ansible) et la GenAI (MCP, N8N, RAG)
 
