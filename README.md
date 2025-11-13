@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-43-51A2DA?logo=fedora&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0+-000000?logo=flask&logoColor=white)
 ![Langchain](https://img.shields.io/badge/🦜_Langchain-Latest-00A67E)
 
 ---
