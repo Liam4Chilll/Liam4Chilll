@@ -27,8 +27,6 @@ Au-delà de la pratique, je partage mes réflexions et expérimentations à trav
 
 📩 Je suis ouvert aux collaborations techniques, projets open source et échanges autour de la GenAI.
 
-**J’explore, je construis, je partage.**
-
 
 ## Quelques projets
 
@@ -83,7 +81,7 @@ Au-delà de la pratique, je partage mes réflexions et expérimentations à trav
 
 <div align="center">
 
-*"L'innovation naît de la curiosité, se nourrit de l'expérimentation et s'épanouit dans le partage."*
+**J’explore, je construis, je partage.**
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Liam4Chilll.Liam4Chilll)](https://github.com/Liam4Chilll)
 
