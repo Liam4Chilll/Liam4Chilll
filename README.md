@@ -14,15 +14,21 @@
 
 ## À propos de moi
 
-Professionnel de l’IT avec plus de 7 ans d’expérience dans les environnements critiques (défense et spatial), j’évolue à l’intersection des systèmes, de l’innovation et de la pédagogie.
+Fort d’un parcours de plus de 6ans dans l’administration et la sécurisation d’infrastructures IT, j’ai progressivement orienté mon expertise vers l'intelligence artificielle générative.
 
-Je me spécialise progressivement sur le CI/CD (K8S, Terraform, Ansible) et la GenAI (MCP, N8N, RAG)
+Aujourd'hui je conçois et je déploie des fonctions MCP, des workflows avec n8n et je met en place des infrastructures GenAI (RAG/LLM offline)
 
-En parallèle, je suis créateur de contenu sur YouTube et investisseur actif avec une appétence marquée pour la blockchain, la finance décentralisée (DeFi).
+Mon expérience d'ingénieur de production m’a transmis une culture profonde de la fiabilité, de la sécurité et de la scalabilité mais surtout des principes que j’intègre aujourd’hui au cœur de mes travaux en intelligence artificielle.
+
+Au-delà de la pratique, je partage mes réflexions et expérimentations à travers :
+
+• mon blog personnel, dédié à l’IT, à l’automatisation et à l’IA appliquée.
+• ma chaîne YouTube, centrée sur le Web3 et la finance décentralisée où j’explore les passerelles entre technologies émergentes, usages concrets et investissements.
+
+📩 Je suis ouvert aux collaborations techniques, projets open source et échanges autour de la GenAI.
 
 **J’explore, je construis, je partage.**
 
-  
 
 ## Quelques projets
 
