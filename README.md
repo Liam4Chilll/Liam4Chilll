@@ -76,8 +76,7 @@ Au-delà de la pratique, je partage mes réflexions et expérimentations à trav
 
 ## Me contacter
 
-📧 Email : [contact@liam4chill.fr](mailto:contact@liam4chill.fr)  
-💼 LinkedIn : [Liam Seddaoui]((https://www.linkedin.com/in/liam-seddaoui/))  
+📧 Email : [contact@liam4chill.fr](mailto:contact@liam4chill.fr)    
 🐦 Twitter : [@Liam4Chill](https://twitter.com/Liam4chill)
 
 ---
