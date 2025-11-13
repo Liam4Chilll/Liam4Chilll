@@ -20,11 +20,6 @@ Aujourd'hui je conçois et je déploie des fonctions MCP, des workflows avec n8n
 
 Mon expérience d'ingénieur de production m’a transmis une culture profonde de la fiabilité, de la sécurité et de la scalabilité mais surtout des principes que j’intègre aujourd’hui au cœur de mes travaux en intelligence artificielle.
 
-Au-delà de la pratique, je partage mes réflexions et expérimentations à travers :
-
-• mon blog personnel, dédié à l’IT, à l’automatisation et à l’IA appliquée.
-• ma chaîne YouTube, centrée sur le Web3 et la finance décentralisée où j’explore les passerelles entre technologies émergentes, usages concrets et investissements.
-
 📩 Je suis ouvert aux collaborations techniques, projets open source et échanges autour de la GenAI.
 
 
