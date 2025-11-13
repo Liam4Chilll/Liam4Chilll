@@ -70,9 +70,8 @@ En parallèle, je suis créateur de contenu sur YouTube et investisseur actif av
 
 ## Me contacter
 
-📧 Email : [contact@liam-seddaoui.fr](mailto:contact@liam-seddaoui.fr)  
-💼 LinkedIn : [Liam Seddaoui](https://linkedin.com/in/liamsdd)  
-🎥 YouTube : [Liam4Chill](https://youtube.com/@Liam4chill)  
+📧 Email : [contact@liam4chill.fr](mailto:contact@liam4chill.fr)  
+💼 LinkedIn : [Liam Seddaoui]((https://www.linkedin.com/in/liam-seddaoui/))  
 🐦 Twitter : [@Liam4Chill](https://twitter.com/Liam4chill)
 
 ---
