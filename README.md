@@ -26,14 +26,14 @@ Mon expérience d'ingénieur de production m'a transmis une culture profonde de 
 ## Mes domaines d'expertise
 
 🏗️ **DevOps & Infrastructure** - Windows, Linux, Conteneurisation, Orchestration  
+
 🔬 **Intelligence Artificielle** - LangChain, FAISS, LLM, RAG, MCP, N8N
+
 🛡️ **Cybersécurité** - OSINT, Forensic, Pentest
 
 ---
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam4Chilll&layout=compact&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Liam4Chilll&theme=neon-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
 
