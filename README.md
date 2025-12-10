@@ -24,20 +24,6 @@ Mon expérience d'ingénieur de production m'a transmis une culture profonde de 
 
 ---
 
-## Quelques projets
-
-<div align="center">
-
-[![Family RAG](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=FAMILY_RAG&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/FAMILY_RAG)
-[![DeskSwap](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=DESKSWAP&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/DESKSWAP)
-
-[![Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=TOOLBOX&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/TOOLBOX)
-[![Documentation](https://github-readme-stats.vercel.app/api/pin/?username=Liam4Chilll&repo=DOCUMENTATION&theme=synthwave&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d&border_radius=10)](https://github.com/Liam4Chilll/DOCUMENTATION)
-
-</div>
-
----
-
 ## Mes domaines d'expertise
 
 🏗️ **DevOps & Infrastructure** - Windows, Linux, Conteneurisation, Orchestration  
