@@ -22,7 +22,6 @@ Mon expérience d'ingénieur de production m'a transmis une culture profonde de 
 
 📩 Je suis ouvert aux collaborations techniques, projets open source et échanges autour de la GenAI.
 
----
 
 ## Mes domaines d'expertise
 
